@@ -1,1 +1,1 @@
-# MNIST-Character-Recognition-using-CNN-
+# MNIST-Character-Recognition-using-CNN
