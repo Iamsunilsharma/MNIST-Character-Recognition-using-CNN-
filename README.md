@@ -20,17 +20,17 @@ Testing dataset contains 10000 images.
 
 ### Result
 
-Test score: 0.06580647033993155
- 
-Test accuracy: 0.9795
+Test score: 0.04176522714489256
+
+Test accuracy: 0.987
 
 ### Confusion Matrix 
 
-![output_15_1](https://user-images.githubusercontent.com/34977022/42730431-965898cc-8811-11e8-84a4-675e82091548.png)
+![output_24_1](https://user-images.githubusercontent.com/34977022/42730533-189895c4-8814-11e8-93cd-222b8f91ab27.png)
 
 
 ### Normalize Confusion Matrix 
-![output_15_2](https://user-images.githubusercontent.com/34977022/42730438-b6934a2e-8811-11e8-89ca-e05ab1b5b404.png)
+![output_24_2](https://user-images.githubusercontent.com/34977022/42730534-2410e622-8814-11e8-878a-404790231930.png)
 
 ### Wrong Predictions
 ![output_17_0](https://user-images.githubusercontent.com/34977022/42730446-dda80028-8811-11e8-8df4-6aa93b05dbc8.png)
